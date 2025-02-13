@@ -25,7 +25,7 @@ export const DEFAULT_BASE_URL = "https://firebasevertexai.googleapis.com";
 // `v1beta` & `stable` available: https://cloud.google.com/vertex-ai/docs/reference#versions
 export const DEFAULT_API_VERSION = "v1beta";
 
-export const PACKAGE_VERSION = "21.6.2";
+export const PACKAGE_VERSION = "0.0.01";
 
 export const LANGUAGE_TAG = "gl-rn";
 
