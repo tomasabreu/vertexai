@@ -6,7 +6,7 @@
   "main": "./dist/module/index.js",
   "types": "./dist/typescript/module/lib/index.d.ts",
   "scripts": {
-    "build": "genversion --esm --semi lib/version.ts",
+    "build": "npx genversion --esm --semi lib/version.ts",
     "build:clean": "rimraf dist",
     "compile": "bob build",
     "prepare": "npm run build && npm run compile"
@@ -25,7 +25,6 @@
     "generative-ai"
   ],
   "peerDependencies": {
-    "genversion": "^3.2.0",
     "@jest/globals": "29.7.0",
     "@react-native-firebase/app": "21.6.2",
     "@react-native-firebase/app-check": "21.6.2",
