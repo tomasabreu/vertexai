@@ -17,6 +17,6 @@
  *
  */
 // @ts-ignore
-import { Logger } from '@react-native-firebase/app/lib/internal/logger';
-export const logger = new Logger('@firebase/vertexai');
+
+export const logger = console;
 //# sourceMappingURL=logger.js.map

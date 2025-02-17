@@ -1,2 +1,2 @@
-export declare const logger: any;
+export declare const logger: Console;
 //# sourceMappingURL=logger.d.ts.map

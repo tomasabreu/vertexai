@@ -28,7 +28,7 @@ const DEFAULT_BASE_URL = exports.DEFAULT_BASE_URL = "https://firebasevertexai.go
 // This is the default API version for the VertexAI API. At some point, should be able to change when the feature becomes available.
 // `v1beta` & `stable` available: https://cloud.google.com/vertex-ai/docs/reference#versions
 const DEFAULT_API_VERSION = exports.DEFAULT_API_VERSION = "v1beta";
-const PACKAGE_VERSION = exports.PACKAGE_VERSION = "21.6.2";
+const PACKAGE_VERSION = exports.PACKAGE_VERSION = "0.0.01";
 const LANGUAGE_TAG = exports.LANGUAGE_TAG = "gl-rn";
 const DEFAULT_FETCH_TIMEOUT_MS = exports.DEFAULT_FETCH_TIMEOUT_MS = 180 * 1000;
 //# sourceMappingURL=constants.js.map

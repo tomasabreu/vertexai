@@ -4,7 +4,6 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.logger = void 0;
-var _logger = require("@react-native-firebase/app/lib/internal/logger");
 /*
  * Copyright (c) 2016-present Invertase Limited & Contributors
  *
@@ -23,5 +22,5 @@ var _logger = require("@react-native-firebase/app/lib/internal/logger");
  */
 // @ts-ignore
 
-const logger = exports.logger = new _logger.Logger('@firebase/vertexai');
+const logger = exports.logger = console;
 //# sourceMappingURL=logger.js.map

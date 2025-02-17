@@ -1,1 +1,1 @@
-{"version":3,"names":["Logger","logger"],"sourceRoot":"../../lib","sources":["logger.ts"],"mappings":";;AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA,SAASA,MAAM,QAAQ,gDAAgD;AAEvE,OAAO,MAAMC,MAAM,GAAG,IAAID,MAAM,CAAC,oBAAoB,CAAC","ignoreList":[]}
+{"version":3,"names":["logger","console"],"sourceRoot":"../../lib","sources":["logger.ts"],"mappings":";;AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;;AAEA,OAAO,MAAMA,MAAM,GAAGC,OAAO","ignoreList":[]}
