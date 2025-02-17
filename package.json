@@ -6,7 +6,7 @@
   "main": "./dist/module/index.js",
   "types": "./dist/typescript/module/lib/index.d.ts",
   "scripts": {
-    "build": "npm genversion --esm --semi lib/version.ts",
+    "build": "genversion --esm --semi lib/version.ts",
     "build:clean": "rimraf dist",
     "compile": "bob build",
     "prepare": "npm run build && npm run compile"
